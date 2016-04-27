@@ -1,0 +1,11 @@
+lily.forwardDistance([mm],[speed])
+lily.backwardDistance([mm],[speed])
+lily.imuTurnL([degrees], [speed])
+lily.imuTurnR([degrees], [speed])
+APPEARANCE
+StrokeSize: 10
+PointColour: {0,127,255,127}
+LineColour: {255,255,255,127}
+SpawnColour: {255,255,255,127}
+DiagramNumberColour: {0,255,255,255}
+PointSize: 10
